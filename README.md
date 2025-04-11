@@ -111,4 +111,3 @@ Our solution is an AI-powered, multi-agent system built using Python. It automat
 
 *   **Team Name:** Raptor
 *   **Team Leader:** Avinash Goyal
-*   *(Add other team members here if applicable)*
