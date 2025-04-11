@@ -1,0 +1,17 @@
+Job Title: Software Engineer
+
+Responsibilities:
+- Design, develop, and test software applications.
+- Collaborate with cross-functional teams.
+- Write clean, efficient, and well-documented code.
+- Participate in code reviews.
+
+Required Skills:
+- Strong programming skills in Python and Java.
+- Experience with web development frameworks (e.g., Django, Flask, Spring).
+- Knowledge of database systems (e.g., SQL, NoSQL).
+- Excellent problem-solving and communication skills.
+
+Qualifications:
+- Bachelor's degree in Computer Science or related field.
+- 3+ years of software development experience.
