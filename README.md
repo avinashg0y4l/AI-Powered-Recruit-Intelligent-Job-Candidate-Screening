@@ -49,7 +49,7 @@ Our solution is an AI-powered, multi-agent system built using Python. It automat
 1.  **Clone the repository (or download the files):**
     ```bash
     # Replace with your actual repository URL if applicable
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+    git clone https://github.com/avinashg0y4l/AI-Powered-Recruit-Intelligent-Job-Candidate-Screening.git
     cd YOUR_REPOSITORY_NAME
     ```
 2.  **Install Python:** Ensure you have Python 3.8 or higher installed ([https://www.python.org/](https://www.python.org/)).
