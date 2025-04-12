@@ -50,7 +50,7 @@ Our solution is an AI-powered, multi-agent system built using Python. It automat
     ```bash
     # Replace with your actual repository URL if applicable
     git clone https://github.com/avinashg0y4l/AI-Powered-Recruit-Intelligent-Job-Candidate-Screening.git
-    cd YOUR_REPOSITORY_NAME
+    cd AI-Powered-Recruit-Intelligent-Job-Candidate-Screening
     ```
 2.  **Install Python:** Ensure you have Python 3.8 or higher installed ([https://www.python.org/](https://www.python.org/)).
 3.  **Install Ollama:** Follow the instructions at [https://ollama.com/](https://ollama.com/) to install Ollama for your operating system.
